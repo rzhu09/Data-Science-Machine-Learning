@@ -11,7 +11,7 @@
 
 ### Conclusion:
 
-With the help of coefficients that their App does better than their website with data showing that 
+With the help of coefficients data shows that their App does better than their website 
 
 Website = $0.19 spent per unit of time spent on the website
 
