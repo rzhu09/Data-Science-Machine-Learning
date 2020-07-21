@@ -22,7 +22,10 @@ K = 1:
 
 ![lg6](https://user-images.githubusercontent.com/60201899/88076823-88b70100-cb48-11ea-84e6-2ef03157647d.PNG)
 
-From this, we can see that K values of 24,25 would yield a lower ereror rate so hence we can adjust the K value for better results
+From this, we can see that K values of 24/25 would yield a lower ereror rate so hence we can adjust the K value for better results
 
 K = 24:
 
+![lg11](https://user-images.githubusercontent.com/60201899/88077147-ee0af200-cb48-11ea-96a9-b2a13e540afb.PNG)
+
+### Conclusion: K = 24 returns better results
