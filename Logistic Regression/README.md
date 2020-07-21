@@ -1,4 +1,4 @@
-Using artificially created data
+### Using artificially created data
 
 This logistic regression project predicts whether or not a user clicked on an advertisement
 
@@ -12,6 +12,9 @@ We can see which data is more related , we can then use that in the train test s
 
 ![lg4](https://user-images.githubusercontent.com/60201899/88074452-6c659500-cb45-11ea-9c91-73f6d2e3e678.PNG)
 
+### Conclusion:
+
+![lg1](https://user-images.githubusercontent.com/60201899/88074792-e007a200-cb45-11ea-813f-1a53662df8f3.PNG)
 
 
 
