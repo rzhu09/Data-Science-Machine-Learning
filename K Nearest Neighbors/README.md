@@ -1,2 +1,5 @@
-# Data-Science-Machine-Learning
-A collection of small projects I wrote in the process of learning data science and machine learning
+### Using artificially created "classified" data
+
+Using a K nearest neighbors classifier to predict the given target class
+
+
