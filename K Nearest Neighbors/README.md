@@ -8,4 +8,8 @@ Initially the data looks like, Data Frame 1:
 
 After scaling down the data values taking out the target class, Data Frame 2:
 
+![lg8](https://user-images.githubusercontent.com/60201899/88076317-ed259080-cb47-11ea-88e7-f7a0fe6ff8d7.PNG)
+
+We can then use Data Frame 2 to train test split and predict Data Frame 1's target class
+
 
