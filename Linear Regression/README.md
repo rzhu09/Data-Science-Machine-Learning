@@ -5,6 +5,10 @@
 
 ### Output: 
 
+Residual:
+
+![lm1](https://user-images.githubusercontent.com/60201899/88072643-49d27c80-cb43-11ea-9ecf-b709ebced83c.PNG)
+
 ![line_regress3](https://user-images.githubusercontent.com/60201899/88012703-9341ae00-cae8-11ea-85c4-237f13be4962.PNG)
 
 ![line_regress](https://user-images.githubusercontent.com/60201899/88012762-b8362100-cae8-11ea-89b4-d6b82ac27eee.PNG)
