@@ -1,2 +1,9 @@
-# Data-Science-Machine-Learning
-A collection of small projects I wrote in the process of learning data science and machine learning
+### Using data sourced from Lending Club
+
+I will be classifying the data and predicting whether or not a particular borrower has paid their loan back 100%
+
+Snip of data:
+
+
+
+
