@@ -1,2 +1,6 @@
-# Data-Science-Machine-Learning
-A collection of small projects I wrote in the process of learning data science and machine learning
+Using artificially created data
+
+This logistic regression project predicts whether or not a user clicked on an advertisement
+
+To do this prediction, I looked at the features of the given data
+
