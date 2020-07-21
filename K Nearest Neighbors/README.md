@@ -16,4 +16,13 @@ We can then use Data Frame 2 to train test split and predict Data Frame 1's targ
 
 I have set the K value to 1 here ^, however, to find out which K value is best, I looked at the error rates
 
+K = 1:
+
+
+
+![lg6](https://user-images.githubusercontent.com/60201899/88076823-88b70100-cb48-11ea-84e6-2ef03157647d.PNG)
+
+From this, we can see that K values of 24,25 would yield a lower ereror rate so hence we can adjust the K value for better results
+
+K = 24:
 
