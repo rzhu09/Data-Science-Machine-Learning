@@ -18,7 +18,7 @@ I have set the K value to 1 here ^, however, to find out which K value is best, 
 
 K = 1:
 
-
+![lg10](https://user-images.githubusercontent.com/60201899/88077062-d5024100-cb48-11ea-9c68-d7c2742e8fc2.PNG)
 
 ![lg6](https://user-images.githubusercontent.com/60201899/88076823-88b70100-cb48-11ea-84e6-2ef03157647d.PNG)
 
