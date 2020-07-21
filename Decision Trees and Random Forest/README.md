@@ -20,7 +20,7 @@ Next we can look at another feature, the purpose of the loan and how many paid b
 
 Using a decision tree classifier:
 
-![lg4](https://user-images.githubusercontent.com/60201899/88083222-cc156d80-cb50-11ea-8e59-3a39cb2713c4.PNG)
+![lg5](https://user-images.githubusercontent.com/60201899/88083475-17c81700-cb51-11ea-9591-1f3c38d89e8e.PNG)
 
 ![lg_4_2](https://user-images.githubusercontent.com/60201899/88083236-cf105e00-cb50-11ea-9ab4-4cf79a455ec2.PNG)
 
