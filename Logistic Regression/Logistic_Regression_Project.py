@@ -31,7 +31,7 @@ pd.set_option('display.width', 1000)
 #plt.show(sns.jointplot(x='Daily Internet Usage', y='Daily Time Spent on Site', data=ad_data))
 # joint plot that shows the daily time spent on site vs their daily internet usage
 
-#plt.show(sns.pairplot(hue='Clicked on Ad', data=ad_data))
+plt.show(sns.pairplot(hue='Clicked on Ad', data=ad_data))
 # with a pair plot we can see which factors are related and unrelated
 
 # Logistic Regression:
