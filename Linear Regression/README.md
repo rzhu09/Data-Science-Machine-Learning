@@ -14,6 +14,7 @@
 With the help of coefficients that their App does better than their website with data showing that 
 
 Website = $0.19 spent per unit of time spent on the website
+
 App = $38.59 spent per unit of time spent on the App
 
 
