@@ -11,6 +11,7 @@ Predicted values vs Actual values:
 
 Residual:
 
+![lm2](https://user-images.githubusercontent.com/60201899/88073193-ea28a100-cb43-11ea-9d30-11b15a99ec58.PNG)
 
 ![line_regress3](https://user-images.githubusercontent.com/60201899/88012703-9341ae00-cae8-11ea-85c4-237f13be4962.PNG)
 
