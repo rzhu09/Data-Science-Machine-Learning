@@ -42,5 +42,7 @@ based on what other user_id's rated other movies. i.e. user 0 rates star wars as
 with a 5/5 rating, hence if someone just finished star wars and wanted another movie suggestions, then Empire Strikes Back movie would get recommended because user 0 has seen both and given both a good ratings. This is done on a larger scale and only the top rated movies will be recommended. 
 Correlation (star wars) -> Returns 'Empire Strikes Back' 1.00
 
-We can observe that finding similar movies using this correlation is relatively efficient.
+However, just because a high rating was given I had to account for out liars so hence the number of ratings was factored in to solve this issue (we don't want to recommend movies based on what a one person rating)
+
+We can observe that finding similar movies using this correlation and number of rated is relatively efficient.
 
